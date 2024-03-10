@@ -1,0 +1,11 @@
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\bin\Debug\net8.0\AutoMarketProject.Presentation.deps.json
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\bin\Debug\net8.0\AutoMarketProject.Presentation.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\bin\Debug\net8.0\AutoMarketProject.Presentation.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.AssemblyInfoInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.AssemblyInfo.cs
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\refint\AutoMarketProject.Presentation.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\AutoMarketProject.Presentation.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Presentation\obj\Debug\net8.0\ref\AutoMarketProject.Presentation.dll

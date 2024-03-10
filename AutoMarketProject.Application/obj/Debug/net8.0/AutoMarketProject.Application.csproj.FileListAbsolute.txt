@@ -1,0 +1,17 @@
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Application.deps.json
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Application.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Application.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Contracts.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Domain.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Contracts.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\bin\Debug\net8.0\AutoMarketProject.Domain.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.csproj.AssemblyReference.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.AssemblyInfoInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.AssemblyInfo.cs
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.csproj.CopyComplete
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\refint\AutoMarketProject.Application.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\AutoMarketProject.Application.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Application\obj\Debug\net8.0\ref\AutoMarketProject.Application.dll

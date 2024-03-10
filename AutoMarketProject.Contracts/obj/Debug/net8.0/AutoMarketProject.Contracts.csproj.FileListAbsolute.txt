@@ -1,0 +1,15 @@
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\bin\Debug\net8.0\AutoMarketProject.Contracts.deps.json
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\bin\Debug\net8.0\AutoMarketProject.Contracts.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\bin\Debug\net8.0\AutoMarketProject.Contracts.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\bin\Debug\net8.0\AutoMarketProject.Domain.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\bin\Debug\net8.0\AutoMarketProject.Domain.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.csproj.AssemblyReference.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.AssemblyInfoInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.AssemblyInfo.cs
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.csproj.CopyComplete
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\refint\AutoMarketProject.Contracts.dll
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\AutoMarketProject.Contracts.pdb
+D:\Программирование\Проекты\AutoMarketProject\AutoMarketProject.Contracts\obj\Debug\net8.0\ref\AutoMarketProject.Contracts.dll
